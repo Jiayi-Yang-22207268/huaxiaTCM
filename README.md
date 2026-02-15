@@ -36,6 +36,5 @@ Traditional Chinese Medicine learning platform focused on preservation, educatio
 - Mapping/GIS: Leaflet, Vue Leaflet, Turf.js, polyline
 - UI/Data: Heroicons, vue-chartjs
 - HTTP: Axios
-- Document: docx
 - Database: SQLite
 
