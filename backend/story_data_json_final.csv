@@ -1,0 +1,5 @@
+1,intro,"[""\u6241\u9e4a""]",扁鹊：你好，年轻人。欢迎来到古代的中医世界。,"[""\u7ee7\u7eed\u524d\u8fdb""]",[2],bg_intro.jpg,"[""bianque.png""]",intro.mp3
+2,intro,"[""\u4f60""]",你：请问您是……？,"[""\u8ffd\u95ee\u8eab\u4efd"", ""\u4fdd\u6301\u6c89\u9ed8""]","[3, 4]",bg_intro.jpg,"[""player.png""]",
+3,intro,"[""\u6241\u9e4a""]",扁鹊：我是扁鹊，千古神医。你准备好学习了吗？,"[""\u5f00\u59cb\u5b66\u4e60""]",[5],bg_room.jpg,"[""bianque.png""]",lesson.mp3
+4,intro,"[""\u6241\u9e4a""]",扁鹊：沉默也是一种选择。,"[""\u7ee7\u7eed""]",[5],bg_room.jpg,"[""bianque.png""]",
+5,intro,"[""\u7cfb\u7edf""]",系统：你进入了第一堂课：望闻问切的奥秘。,[],[],bg_classroom.jpg,[],

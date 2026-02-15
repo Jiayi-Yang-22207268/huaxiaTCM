@@ -1,0 +1,18 @@
+.before-enter {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease;
+}
+.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.slide-in-left.before-enter {
+    opacity: 0;
+    transform: translateX(-40px);
+}
+.slide-in-left {
+    opacity: 1;
+    transform: translateX(0);
+}

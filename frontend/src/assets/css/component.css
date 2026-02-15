@@ -1,0 +1,46 @@
+.logo {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.button {
+    border: 2px solid #fff;
+    background: transparent;
+    color: #fff;
+    padding: 0.75em 2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.button:hover {
+    color: #9bf1ff;
+    border-color: #9bf1ff;
+}
+
+.image img {
+    width: 100%;
+    display: block;
+}
+
+.actions {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1em;
+}
+
+.custom-spinner {
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #4CAF50;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
